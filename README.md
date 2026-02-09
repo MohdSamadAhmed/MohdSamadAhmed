@@ -1,5 +1,4 @@
-# 💫 About Me:
-# 💫 About Me:<br>- 🔭 I’m a graduate from Quli-Qutub Shah with a Diploma degree in Electrical and Electronics Engineering.<br>- 👯 A passionate DevOps engineer with AWS Cloud knowledge.<br>- 🌱 I’m currently working with/on, using/learning tools related to Cloud services from AWS, Networking, DevOps<br>- 💬 Ask me about JENKINS, DOCKER, KUBERNETES, AWS CLOUD, TERRAFORM, SERVERLESS, Networking on.with Linux machines etc.<br>Connect with me: Mohdsamadahmed4@gmail.com
+--# 💫 About Me:<br>- 🔭 I’m a graduate from Quli-Qutub Shah with a Diploma degree in Electrical and Electronics Engineering.<br>- 👯 A passionate DevOps engineer with AWS Cloud knowledge.<br>- 🌱 I’m currently working with/on, using/learning tools related to Cloud services from AWS, Networking, DevOps<br>- 💬 Ask me about JENKINS, DOCKER, KUBERNETES, AWS CLOUD, TERRAFORM, SERVERLESS, Networking on.with Linux machines etc.<br>Connect with me: Mohdsamadahmed4@gmail.com
 
 
 ## 🌐 Socials:
